@@ -1,0 +1,4 @@
+paramiko安装说明：
+本地命令行运行报错找不到paramiko模块处理方法
+    1.python -m pip install --upgrade pip
+    2.pip install paramiko
